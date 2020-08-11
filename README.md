@@ -1,2 +1,2 @@
 # icons
-Official open source SVG icon repository
+Official open source SVG icon repository from inAU Software.
