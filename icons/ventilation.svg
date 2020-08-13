@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="40"
+   height="40"
+   viewBox="0 0 10.583333 10.583334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="ventilation.svg">
+  <title
+     id="title983">electric engine</title>
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="TriangleInS"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleInS"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1174"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#333333;stroke-width:1pt;stroke-opacity:1;fill:#333333;fill-opacity:1"
+         transform="scale(-0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1059"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#333333;stroke-opacity:1;fill:#333333;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Sstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Sstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1065"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#333333;stroke-opacity:1;fill:#333333;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.3) translate(-2.3,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInM"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4709"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#333333;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(-0.4)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.919596"
+     inkscape:cx="34.307464"
+     inkscape:cy="25.826353"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>electric engine</dc:title>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>automation electric engine</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="matrix(0.14183135,0,0,0.14183135,-41.249082,-109.11102)"
+       id="g7266"
+       style="display:inline;fill:#000000">
+      <path
+         inkscape:connector-curvature="0"
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.36471;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 350.01758,820.58789 a 39.797038,39.797038 0 0 0 -39.79688,39.79688 39.797038,39.797038 0 0 0 39.79688,39.79687 39.797038,39.797038 0 0 0 39.79687,-39.79687 39.797038,39.797038 0 0 0 -39.79687,-39.79688 z m -7.80274,7.03516 h 15.74219 c -4.29979,5.84814 -6.48978,11.99864 -7.25586,18.35156 a 14.445023,14.445023 0 0 1 6.26367,1.74805 c 4.91646,-4.94069 10.13235,-9.32816 17.1836,-10.30664 l 7.87109,13.63281 c -7.06688,-0.7833 -13.3719,0.32739 -19.1582,2.73437 a 14.445023,14.445023 0 0 1 1.60156,6.60157 14.445023,14.445023 0 0 1 0,0.0137 c 6.57362,1.77266 12.79741,4.11175 17.07422,9.60547 l -7.87305,13.63476 c -2.81617,-6.42297 -6.85593,-11.28656 -11.74218,-15.07226 a 14.445023,14.445023 0 0 1 -4.59961,4.26171 c 1.8638,6.82378 3.12818,13.62932 0.41211,20.31836 h -15.74415 c 4.30122,-5.85004 6.49439,-12.00029 7.25977,-18.35546 a 14.445023,14.445023 0 0 1 -6.25195,-1.78711 c -4.89574,4.91149 -10.09204,9.26449 -17.10938,10.23828 l -7.87305,-13.63672 c 7.04643,0.78102 13.33679,-0.31852 19.10938,-2.71094 a 14.445023,14.445023 0 0 1 -1.52148,-5.6582 c -6.68834,-1.78287 -13.04242,-4.111 -17.38672,-9.69141 l 7.87304,-13.63281 c 2.79037,6.36413 6.78151,11.19987 11.60743,14.9707 a 14.445023,14.445023 0 0 1 4.94335,-4.89648 c -1.87052,-6.83876 -3.14779,-13.65961 -0.42578,-20.36328 z"
+         id="path7108-1-5"
+         transform="scale(0.9375)" />
+      <circle
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.875;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path7201"
+         cx="328.14148"
+         cy="806.61072"
+         r="5.7756696" />
+    </g>
+  </g>
+</svg>
