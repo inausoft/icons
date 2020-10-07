@@ -26,7 +26,7 @@ jobs:
         id: version
         uses: notiz-dev/github-action-json-property@release
         with: 
-          path: 'package.json'
+          path: 'version.json'
           prop_path: 'version'
       
       - uses: papeloto/action-zip@v1
