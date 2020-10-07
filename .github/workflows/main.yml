@@ -6,8 +6,9 @@ name: CI
 # events but only for the master branch
 on:
   push:
-    tags:
-    - 'v*' 
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -21,10 +22,17 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
       
+      - name: get version
+        id: version
+        uses: notiz-dev/github-action-json-property@release
+        with: 
+          path: 'package.json'
+          prop_path: 'version'
+      
       - uses: papeloto/action-zip@v1
         with:
           files: icons/ version.json
-          dest: ${{ github.ref }}.zip
+          dest: ${{steps.version.outputs.prop}}.zip
             
       - name: Create Release
         id: create_release
@@ -32,8 +40,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: ${{ github.ref }}
-          release_name: Release ${{ github.ref }}
+          tag_name: ${{steps.version.outputs.prop}}
+          release_name: Release ${{steps.version.outputs.prop}}
           draft: false
           prerelease: false
           
@@ -44,6 +52,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }} # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, which include a `upload_url`. See this blog post for more info: https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps 
-          asset_path: ./${{ github.ref }}.zip
-          asset_name: ${{ github.ref }}.zip
+          asset_path: ./${{steps.version.outputs.prop}}.zip
+          asset_name: ${{steps.version.outputs.prop}}.zip
           asset_content_type: application/zip
