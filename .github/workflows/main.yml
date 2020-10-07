@@ -22,12 +22,11 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
       
-      # Runs a set of commands using the runners shell
-      - uses: actions/upload-artifact@v1
+      - uses: papeloto/action-zip@v1
         with:
-          name: my-artifact
-          path: ${{ github.workspace }}/icons
-      
+          files: dist/ manifest.json
+          dest: result.zip
+            
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
@@ -38,6 +37,7 @@ jobs:
           release_name: Release ${{ github.ref }}
           draft: false
           prerelease: false
+          
       - name: Upload Release Asset
         id: upload-release-asset 
         uses: actions/upload-release-asset@v1
@@ -45,6 +45,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }} # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, which include a `upload_url`. See this blog post for more info: https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps 
-          asset_path: ./version.json
-          asset_name: version.json
-          asset_content_type: application/json
+          asset_path: ./result.zip
+          asset_name: result.zip
+          asset_content_type: application/zip
