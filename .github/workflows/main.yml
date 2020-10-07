@@ -22,14 +22,8 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
-      - uses: papeloto/action-zip@v1
-        with:
-          files: icons/ 
-          recursive: false
-          dest: result.zip
-
       # Runs a set of commands using the runners shell
       - uses: actions/upload-artifact@v1
         with:
           name: my-artifact
-          path: ${{ github.workspace }}/result.zip
+          path: ${{ github.workspace }}/icons
