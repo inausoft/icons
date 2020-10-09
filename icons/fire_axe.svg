@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="40"
+   height="40"
+   viewBox="0 0 10.583333 10.583334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="fire_axe.svg">
+  <title
+     id="title946">electricity</title>
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="TriangleInS"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleInS"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1174"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#333333;stroke-width:1pt;stroke-opacity:1;fill:#333333;fill-opacity:1"
+         transform="scale(-0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1059"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#333333;stroke-opacity:1;fill:#333333;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Sstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Sstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1065"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#333333;stroke-opacity:1;fill:#333333;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.3) translate(-2.3,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInM"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4709"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#333333;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(-0.4)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="-10.138925"
+     inkscape:cy="23.545245"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>electricity</dc:title>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>automation light lightning</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g7680-6-1-2-9"
+       transform="matrix(0.47739,0.33652875,-0.33652875,0.47739,364.07896,349.44199)"
+       inkscape:export-filename="D:\WorkSpaces\ReactFront\my-app\public\Images\axe.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       style="fill:#333333;fill-opacity:1">
+      <path
+         id="path6436-2-1-1-8"
+         transform="scale(0.26458333)"
+         d="m -3163.2578,-516.63086 c -6.194,3.17881 -12.5256,3.95653 -18.8184,5.4082 -5.1054,0.034 -10.7126,-0.0152 -15.5488,-0.0625 -3.7871,1.01673 -6.7094,3.59007 -9.3242,6.7168 h 10.5058 v 1.34766 5.57617 c -0.011,1.31962 0.1761,2.36536 1.5782,2.42383 h 12.789 c 6.2928,1.45168 12.6244,2.22939 18.8184,5.4082 1.5047,-4.30095 2.511,-8.55951 2.4238,-13.41016 0.087,-4.8506 -0.9191,-9.10729 -2.4238,-13.4082 z m -2.7949,4.51758 c 0.9978,2.85199 1.6633,5.67413 1.6054,8.89062 0.058,3.21653 -0.6076,6.04055 -1.6054,8.89258 -2.7779,-1.4256 -5.6007,-2.11105 -8.4258,-2.71094 2.084,-4.32846 1.4249,-8.38375 0,-12.36132 2.8251,-0.59989 5.6479,-1.2853 8.4258,-2.71094 z m -24.5996,7.04297 v 0 c 0.6228,0.008 1.2176,0.26078 1.6582,0.70117 0.9365,0.93623 0.9365,2.45444 0,3.39062 -0.9362,0.9365 -2.4544,0.9365 -3.3906,0 -0.936,-0.93671 -0.9351,-2.45492 0,-3.39062 0.4584,-0.458 1.0826,-0.71092 1.7305,-0.70117 z"
+         style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.31551px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="path6454-6-9-0-8"
+         d="m -841.80496,-130.20434 1e-5,11.19697 c 0.2461,0.85502 1.08966,2.14534 0.3506,2.2826 l -2.9725,0.0176 c -1.23996,-0.005 -0.35467,-1.78182 -0.31622,-2.65133 0.14316,-1.19143 0.30105,-1.72887 0.31623,-2.37039 v -4.42473 c -0.0435,-0.72654 -0.8486,-2.65806 -0.82218,-4.07357 z"
+         style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.0761846px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
