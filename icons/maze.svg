@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="40"
+   height="40"
+   viewBox="0 0 10.583333 10.583334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="maze.svg">
+  <title
+     id="title946">electricity</title>
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="TriangleInS"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleInS"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1174"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#333333;stroke-width:1pt;stroke-opacity:1;fill:#333333;fill-opacity:1"
+         transform="scale(-0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1059"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#333333;stroke-opacity:1;fill:#333333;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Sstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Sstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1065"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#333333;stroke-opacity:1;fill:#333333;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.3) translate(-2.3,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInM"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4709"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#333333;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(-0.4)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="-10.138925"
+     inkscape:cy="23.545245"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>electricity</dc:title>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>automation light lightning</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="translate(-13.217076,-5.4662654)"
+       id="g910">
+      <rect
+         transform="scale(-1,1)"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\marci\OneDrive\Dokumenty\Inkscape\bin\maze.png"
+         ry="0.24092138"
+         rx="0.29932675"
+         y="5.4662657"
+         x="-23.800409"
+         height="10.583328"
+         width="1.1759242"
+         id="rect4798"
+         style="display:inline;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.13427;stroke-opacity:0.992157" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\marci\OneDrive\Dokumenty\Inkscape\bin\maze.png"
+         transform="matrix(0,-1,-1,0,0,0)"
+         ry="0.18069085"
+         rx="0.29932705"
+         y="-23.443434"
+         x="-11.345901"
+         height="7.9374886"
+         width="1.1759254"
+         id="rect4798-0"
+         style="display:inline;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.116281;stroke-opacity:0.992157" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\marci\OneDrive\Dokumenty\Inkscape\bin\maze.png"
+         transform="matrix(0,-1,-1,0,0,0)"
+         ry="0.12858689"
+         rx="0.29932705"
+         y="-23.800409"
+         x="-16.049599"
+         height="5.6486359"
+         width="1.1759254"
+         id="rect4798-0-7"
+         style="display:inline;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.0980946;stroke-opacity:0.992157" />
+      <rect
+         transform="scale(-1,1)"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\marci\OneDrive\Dokumenty\Inkscape\bin\maze.png"
+         ry="0.24092138"
+         rx="0.29932675"
+         y="5.4662657"
+         x="-14.393022"
+         height="10.583328"
+         width="1.1759242"
+         id="rect4798-5"
+         style="display:inline;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.13427;stroke-opacity:0.992157" />
+      <rect
+         transform="scale(-1,1)"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\marci\OneDrive\Dokumenty\Inkscape\bin\maze.png"
+         ry="0.14531764"
+         rx="0.29932675"
+         y="7.4611363"
+         x="-16.68187"
+         height="6.3835945"
+         width="1.1759242"
+         id="rect4798-2"
+         style="display:inline;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.104281;stroke-opacity:0.992157" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\marci\OneDrive\Dokumenty\Inkscape\bin\maze.png"
+         transform="matrix(0,-1,-1,0,0,0)"
+         ry="0.091779485"
+         rx="0.29932705"
+         y="-17.248817"
+         x="-16.049599"
+         height="4.0317407"
+         width="1.1759254"
+         id="rect4798-0-7-8"
+         style="display:inline;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.0828737;stroke-opacity:0.992157" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\marci\OneDrive\Dokumenty\Inkscape\bin\maze.png"
+         transform="matrix(0,-1,-1,0,0,0)"
+         ry="0.082219109"
+         rx="0.29932705"
+         y="-23.800409"
+         x="-6.6421943"
+         height="3.6117673"
+         width="1.1759254"
+         id="rect4798-0-7-8-5"
+         style="display:inline;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.0784385;stroke-opacity:0.992157" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\marci\OneDrive\Dokumenty\Inkscape\bin\maze.png"
+         transform="matrix(0,-1,-1,0,0,0)"
+         ry="0.071224414"
+         rx="0.29915977"
+         y="-21.364552"
+         x="-9.2243681"
+         height="3.1287854"
+         width="1.1752683"
+         id="rect4798-0-7-8-5-6"
+         style="display:inline;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.0729853;stroke-opacity:0.992157" />
+      <rect
+         transform="scale(-1,1)"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\marci\OneDrive\Dokumenty\Inkscape\bin\maze.png"
+         ry="0.085550256"
+         rx="0.29932675"
+         y="5.4662657"
+         x="-21.364552"
+         height="3.7580996"
+         width="1.1759242"
+         id="rect4798-2-8"
+         style="display:inline;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.0800117;stroke-opacity:0.992157" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\marci\OneDrive\Dokumenty\Inkscape\bin\maze.png"
+         transform="matrix(0,-1,-1,0,0,0)"
+         ry="0.13958122"
+         rx="0.29932705"
+         y="-19.348694"
+         x="-6.6421943"
+         height="6.1316023"
+         width="1.1759254"
+         id="rect4798-0-7-8-5-7"
+         style="display:inline;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.102201;stroke-opacity:0.992157" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\marci\OneDrive\Dokumenty\Inkscape\bin\maze.png"
+         transform="matrix(0,-1,-1,0,0,0)"
+         ry="0.084609218"
+         rx="0.29932705"
+         y="-21.889536"
+         x="-13.886738"
+         height="3.7167604"
+         width="1.1759254"
+         id="rect4798-0-7-8-5-6-0"
+         style="display:inline;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.0795704;stroke-opacity:0.992157" />
+      <rect
+         transform="scale(-1,1)"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\marci\OneDrive\Dokumenty\Inkscape\bin\maze.png"
+         ry="0.0798041"
+         rx="0.29932675"
+         y="10.38106"
+         x="-19.348694"
+         height="3.5056787"
+         width="1.1759242"
+         id="rect4798-2-8-7"
+         style="display:inline;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.0772778;stroke-opacity:0.992157" />
+    </g>
+  </g>
+</svg>
