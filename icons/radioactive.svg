@@ -7,95 +7,95 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="40"
-   height="40"
-   viewBox="0 0 10.583333 10.583334"
-   version="1.1"
-   id="svg8"
+   sodipodi:docname="radioactive.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="radioactive.svg">
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 10.583333 10.583334"
+   height="40"
+   width="40">
   <title
      id="title983">electric engine</title>
   <defs
      id="defs2">
     <marker
-       inkscape:stockid="TriangleInS"
-       orient="auto"
-       refY="0.0"
-       refX="0.0"
+       inkscape:isstock="true"
+       style="overflow:visible"
        id="TriangleInS"
-       style="overflow:visible"
-       inkscape:isstock="true">
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleInS">
       <path
-         id="path1174"
-         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         transform="scale(-0.2)"
          style="fill-rule:evenodd;stroke:#333333;stroke-width:1pt;stroke-opacity:1;fill:#333333;fill-opacity:1"
-         transform="scale(-0.2)" />
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path1174" />
     </marker>
     <marker
-       inkscape:stockid="Arrow2Mstart"
-       orient="auto"
-       refY="0.0"
-       refX="0.0"
+       inkscape:isstock="true"
+       style="overflow:visible"
        id="Arrow2Mstart"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         id="path1059"
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#333333;stroke-opacity:1;fill:#333333;fill-opacity:1"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         transform="scale(0.6) translate(0,0)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow2Sstart"
-       orient="auto"
-       refY="0.0"
        refX="0.0"
-       id="Arrow2Sstart"
-       style="overflow:visible"
-       inkscape:isstock="true">
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart">
       <path
-         id="path1065"
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#333333;stroke-opacity:1;fill:#333333;fill-opacity:1"
+         transform="scale(0.6) translate(0,0)"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         transform="scale(0.3) translate(-2.3,0)" />
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#333333;stroke-opacity:1;fill:#333333;fill-opacity:1"
+         id="path1059" />
     </marker>
     <marker
-       inkscape:stockid="TriangleInM"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="TriangleInM"
+       inkscape:isstock="true"
        style="overflow:visible"
-       inkscape:isstock="true">
+       id="Arrow2Sstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Sstart">
       <path
-         inkscape:connector-curvature="0"
-         id="path4709"
-         d="M 5.77,0 -2.88,5 V -5 Z"
+         transform="scale(0.3) translate(-2.3,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#333333;stroke-opacity:1;fill:#333333;fill-opacity:1"
+         id="path1065" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleInM"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInM">
+      <path
+         transform="scale(-0.4)"
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#333333;stroke-width:1pt;stroke-opacity:1"
-         transform="scale(-0.4)" />
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path4709"
+         inkscape:connector-curvature="0" />
     </marker>
   </defs>
   <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="7.919596"
-     inkscape:cx="1.4355855"
-     inkscape:cy="19.885289"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     inkscape:window-x="-9"
+     inkscape:window-maximized="1"
      inkscape:window-y="-9"
-     inkscape:window-maximized="1" />
+     inkscape:window-x="-9"
+     inkscape:window-height="1001"
+     inkscape:window-width="1920"
+     units="px"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="19.885289"
+     inkscape:cx="1.4355855"
+     inkscape:zoom="7.919596"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -114,30 +114,25 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
+     id="layer1"
      inkscape:groupmode="layer"
-     id="layer1">
-    <g
-       transform="translate(21.105902,5.203865)"
-       id="g1064">
-      <ellipse
-         cy="0.087801777"
-         cx="-15.814236"
-         id="path2570-8"
-         style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.499426;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-         rx="5.0240917"
-         ry="4.9646044" />
-      <ellipse
-         cy="0.087801777"
-         cx="-15.814236"
-         id="path2570-3-2-1"
-         style="fill:#333333;fill-opacity:1;stroke-width:0.045402;stroke-linecap:round;paint-order:fill markers stroke"
-         rx="0.83734858"
-         ry="0.827434" />
-      <path
-         id="path2500-4-9-1-9-0"
-         style="fill:#333333;stroke-width:0.489632;stroke-linecap:round;paint-order:fill markers stroke"
-         d="m -17.907605,-3.4950628 a 4.1867431,4.1371703 0 0 0 -2.093372,3.58285514 h 2.930721 a 1.256023,1.2411511 0 0 1 0.628012,-1.07485712 z m 4.186744,0 -1.465361,2.50799802 a 1.256023,1.2411511 0 0 1 0.628012,1.07485712 h 2.93072 a 4.1867431,4.1371703 0 0 0 -2.093371,-3.58285514 z m -2.721383,4.6577123 -1.465361,2.507998 a 4.1867431,4.1371703 0 0 0 4.186744,0 l -1.465361,-2.507998 a 1.256023,1.2411511 0 0 1 -0.628011,0.1662938 1.256023,1.2411511 0 0 1 -0.628011,-0.1662938 z" />
-    </g>
+     inkscape:label="Layer 1">
+    <ellipse
+       cy="5.291667"
+       cx="5.2916665"
+       id="path2570-3-2-1"
+       style="fill:#333333;fill-opacity:1;stroke-width:0.045402;stroke-linecap:round;paint-order:fill markers stroke"
+       rx="0.83734858"
+       ry="0.827434" />
+    <circle
+       r="5.0254321"
+       cy="5.291667"
+       cx="5.291667"
+       id="path2570-8"
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.53247;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <path
+       id="path2500-4-9-1-9-0"
+       style="fill:#333333;stroke-width:0.489632;stroke-linecap:round;paint-order:fill markers stroke"
+       d="M 3.1953056,1.6463229 A 4.1867431,4.1371703 0 0 0 1.1019336,5.229178 h 2.930721 a 1.256023,1.2411511 0 0 1 0.628012,-1.0748571 z m 4.186744,0 -1.465361,2.507998 a 1.256023,1.2411511 0 0 1 0.628012,1.0748571 h 2.93072 A 4.1867431,4.1371703 0 0 0 7.3820496,1.6463229 Z m -2.721383,4.6577123 -1.465361,2.507998 a 4.1867431,4.1371703 0 0 0 4.186744,0 L 5.9166886,6.3040352 A 1.256023,1.2411511 0 0 1 5.2886776,6.470329 1.256023,1.2411511 0 0 1 4.6606666,6.3040352 Z" />
   </g>
 </svg>
