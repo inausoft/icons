@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="cross_2.svg"
+   sodipodi:docname="hourglass.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    id="svg8"
    version="1.1"
@@ -15,7 +15,7 @@
    height="40"
    width="40">
   <title
-     id="title946">electricity</title>
+     id="title900">shotgun</title>
   <defs
      id="defs2">
     <marker
@@ -87,9 +87,9 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="24.191371"
-     inkscape:cx="-2.8394054"
-     inkscape:zoom="11.2"
+     inkscape:cy="21.417691"
+     inkscape:cx="18.613423"
+     inkscape:zoom="15.839192"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -104,10 +104,10 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>electricity</dc:title>
+        <dc:title>shotgun</dc:title>
         <dc:subject>
           <rdf:Bag>
-            <rdf:li>automation light lightning</rdf:li>
+            <rdf:li>shotgun gun weapon</rdf:li>
           </rdf:Bag>
         </dc:subject>
       </cc:Work>
@@ -117,48 +117,48 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
-    <rect
-       y="-1.1544991e-07"
-       x="3.96875"
-       height="10.583334"
-       width="2.6458335"
-       id="rect9189-67-4-9-2-8"
-       style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.19582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-    <rect
-       transform="rotate(90)"
-       y="-10.583336"
-       x="3.96875"
-       height="10.583334"
-       width="2.6458335"
-       id="rect9189-6-2-1-1-4-1"
-       style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.19582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-    <rect
-       y="1.4552084"
-       x="1.4552082"
-       height="1.8520833"
-       width="1.8520833"
-       id="rect9206-8-9-7-8-4"
-       style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0944215;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-    <rect
-       style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0944216;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect9206-8-9-7-8-4-5"
-       width="1.8520833"
-       height="1.8520833"
-       x="1.4552082"
-       y="7.276042" />
-    <rect
-       y="7.276042"
-       x="7.276042"
-       height="1.8520833"
-       width="1.8520833"
-       id="rect9206-8-9-7-8-4-5-6"
-       style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0944216;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-    <rect
-       style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0944216;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect9206-8-9-7-8-4-5-6-5"
-       width="1.8520833"
-       height="1.8520833"
-       x="7.276042"
-       y="1.4552081" />
+    <g
+       transform="matrix(0.866873,0,0,0.866873,0.90924695,1.1959535)"
+       id="g899">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.0407645px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 4.8294179,6.6615999 -2.485854,2.611141 v 0.615266 h 2.711868 2.711861 v -0.615266 l -2.485853,-2.611141 z"
+         id="path5225-2-8-7"
+         sodipodi:nodetypes="cccccccc" />
+      <rect
+         style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.17693;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5298-0-1-7-6"
+         width="9.0789289"
+         height="1.0766195"
+         x="0.51597017"
+         y="9.7514458"
+         rx="0.35581625"
+         ry="0.35581625" />
+      <rect
+         style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.17693;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5298-0-2-3-2-0"
+         width="9.0789289"
+         height="1.0766195"
+         x="0.51597017"
+         y="-1.3786689"
+         rx="0.35581625"
+         ry="0.35581625" />
+      <path
+         style="fill:none;stroke:#333333;stroke-width:0.794857;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 1.6776568,-0.38219619 V 2.3640436 l 2.3259401,2.3860533 -2.3259401,2.386099 v 2.746148"
+         id="path7855-0"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#333333;stroke-width:0.794857;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 8.4332079,-0.38219619 V 2.3640436 l -2.325947,2.3860533 2.325947,2.386099 v 2.746148"
+         id="path7855-8-2"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.180334;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 2.9170029,1.3672764 v 0.8803412 l 1.780483,1.7804989 h 0.715877 L 7.1938539,2.2476176 V 1.3672764 h -1.65484 -0.967178 z"
+         id="path7880-0"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
 </svg>
