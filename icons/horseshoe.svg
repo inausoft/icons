@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="40"
+   height="40"
+   viewBox="0 0 10.583333 10.583334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="horseshoe.svg">
+  <title
+     id="title1094">crane hook</title>
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="TriangleInS"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleInS"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1174"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#333333;stroke-width:1pt;stroke-opacity:1;fill:#333333;fill-opacity:1"
+         transform="scale(-0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1059"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#333333;stroke-opacity:1;fill:#333333;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Sstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Sstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1065"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#333333;stroke-opacity:1;fill:#333333;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.3) translate(-2.3,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInM"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4709"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#333333;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(-0.4)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="-4.5790982"
+     inkscape:cy="21.40142"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>crane hook</dc:title>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>automation crane hook</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0428189px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 1.5677371,0.01512125 1.5221258,1.0142636 C 1.7677754,1.0138754 1.998578,1.0297898 2.0065341,1.2867922 1.1564898,3.0356915 -0.11042695,4.5165745 0.64413354,7.2969297 1.5547303,9.6877293 3.2985345,10.608223 5.2916287,10.566885 7.2847216,10.608132 9.028624,9.6877293 9.9392194,7.2969297 10.693731,4.5165745 9.4268631,3.0356915 8.5768188,1.2867922 8.5850442,1.0295954 8.8155789,1.0138754 9.0612285,1.0142636 L 9.0156172,0.01512125 H 7.0325195 V 1.0597254 C 7.6120244,2.7460359 8.5891397,4.4596624 8.0770752,6.0706721 7.4813649,7.6681451 6.4477251,8.1612872 5.2914801,8.1749693 4.1352337,8.161384 3.1016935,7.6681451 2.5059818,6.0706721 1.9939174,4.4596624 2.9709835,2.7460359 3.5505375,1.0597254 V 0.01512125 Z M 1.4273729,5.0641548 A 0.57805501,0.57805501 0 0 1 2.0054224,5.6422048 0.57805501,0.57805501 0 0 1 1.4273729,6.2203033 0.57805501,0.57805501 0 0 1 0.84932334,5.6422048 0.57805501,0.57805501 0 0 1 1.4273729,5.0641548 Z m 7.728907,0 A 0.57805501,0.57805501 0 0 1 9.7343295,5.6422048 0.57805501,0.57805501 0 0 1 9.1562799,6.2203033 0.57805501,0.57805501 0 0 1 8.5782304,5.6422048 0.57805501,0.57805501 0 0 1 9.1562799,5.0641548 Z M 2.5300531,7.718944 A 0.57805501,0.57805501 0 0 1 3.108104,8.2969934 0.57805501,0.57805501 0 0 1 2.5300531,8.8750443 0.57805501,0.57805501 0 0 1 1.9520036,8.2969934 0.57805501,0.57805501 0 0 1 2.5300531,7.718944 Z m 5.5236434,0 A 0.57805501,0.57805501 0 0 1 8.631746,8.2969934 0.57805501,0.57805501 0 0 1 8.0536965,8.8750443 0.57805501,0.57805501 0 0 1 7.4756456,8.2969934 0.57805501,0.57805501 0 0 1 8.0536965,7.718944 Z M 5.2917773,8.8536476 A 0.57805501,0.57805501 0 0 1 5.8698282,9.4316971 0.57805501,0.57805501 0 0 1 5.2917773,10.009747 0.57805501,0.57805501 0 0 1 4.7137277,9.4316971 0.57805501,0.57805501 0 0 1 5.2917773,8.8536476 Z"
+       id="path6842"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
