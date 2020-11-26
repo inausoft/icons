@@ -7,95 +7,95 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="chess.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 10.583333 10.583334"
+   width="40"
    height="40"
-   width="40">
+   viewBox="0 0 10.583333 10.583334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="chess.svg">
   <title
      id="title1416">alert</title>
   <defs
      id="defs2">
     <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
+       inkscape:stockid="TriangleInS"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
        id="TriangleInS"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="TriangleInS">
+       style="overflow:visible"
+       inkscape:isstock="true">
       <path
-         transform="scale(-0.2)"
-         style="fill-rule:evenodd;stroke:#333333;stroke-width:1pt;stroke-opacity:1;fill:#333333;fill-opacity:1"
+         id="path1174"
          d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
-         id="path1174" />
+         style="fill-rule:evenodd;stroke:#333333;stroke-width:1pt;stroke-opacity:1;fill:#333333;fill-opacity:1"
+         transform="scale(-0.2)" />
     </marker>
     <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
        id="Arrow2Mstart"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow2Mstart">
+       style="overflow:visible"
+       inkscape:isstock="true">
       <path
-         transform="scale(0.6) translate(0,0)"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         id="path1059"
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#333333;stroke-opacity:1;fill:#333333;fill-opacity:1"
-         id="path1059" />
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) translate(0,0)" />
     </marker>
     <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
+       inkscape:stockid="Arrow2Sstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
        id="Arrow2Sstart"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow2Sstart">
+       style="overflow:visible"
+       inkscape:isstock="true">
       <path
-         transform="scale(0.3) translate(-2.3,0)"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         id="path1065"
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#333333;stroke-opacity:1;fill:#333333;fill-opacity:1"
-         id="path1065" />
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.3) translate(-2.3,0)" />
     </marker>
     <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
-       id="TriangleInM"
-       refX="0"
-       refY="0"
+       inkscape:stockid="TriangleInM"
        orient="auto"
-       inkscape:stockid="TriangleInM">
+       refY="0"
+       refX="0"
+       id="TriangleInM"
+       style="overflow:visible"
+       inkscape:isstock="true">
       <path
-         transform="scale(-0.4)"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#333333;stroke-width:1pt;stroke-opacity:1"
-         d="M 5.77,0 -2.88,5 V -5 Z"
+         inkscape:connector-curvature="0"
          id="path4709"
-         inkscape:connector-curvature="0" />
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#333333;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(-0.4)" />
     </marker>
   </defs>
   <sodipodi:namedview
-     inkscape:window-maximized="1"
-     inkscape:window-y="-9"
-     inkscape:window-x="-9"
-     inkscape:window-height="1001"
-     inkscape:window-width="1920"
-     units="px"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="px"
-     inkscape:cy="28.011464"
-     inkscape:cx="11.273069"
-     inkscape:zoom="22.4"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#ffffff"
-     id="base" />
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.919596"
+     inkscape:cx="-0.27660689"
+     inkscape:cy="18.649728"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -114,114 +114,120 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     id="layer1">
     <g
-       transform="translate(0.01652905,-0.82682293)"
-       id="g924">
+       style="fill:#333333;fill-opacity:1"
+       transform="translate(-0.0106404,0.03892778)"
+       id="g891">
       <g
-         style="fill:#ff7f2a"
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\WorkSpaces\ReactFront\my-app\public\Images\chees.png"
-         transform="matrix(0.21587842,0.00228651,-0.00228651,0.21587842,263.62243,-79.306513)"
-         id="g8596-2-5">
-        <circle
-           style="opacity:0.97;fill:#ff7f2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-           id="path8512-7-4"
-           cx="-1178.6118"
-           cy="398.16821"
-           r="4.1627226" />
+         style="fill:#333333;fill-opacity:1"
+         transform="matrix(1.0987601,0,0,1.0987601,-0.46237636,-1.4621044)"
+         id="g924">
+        <g
+           style="fill:#333333;fill-opacity:1"
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="D:\WorkSpaces\ReactFront\my-app\public\Images\chees.png"
+           transform="matrix(0.21587842,0.00228651,-0.00228651,0.21587842,263.62243,-79.306513)"
+           id="g8596-2-5">
+          <circle
+             style="opacity:0.97;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+             id="path8512-7-4"
+             cx="-1178.6118"
+             cy="398.16821"
+             r="4.1627226" />
+          <path
+             style="fill:#333333;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+             d="m -1180.5295,403.37363 c -0.4664,3.84122 -1.1272,7.61482 -3.4613,10.8045 h 5.379 5.379 c -2.3341,-3.18968 -2.9949,-6.96328 -3.4613,-10.8045 -0.5019,0.64574 -1.1986,0.7075 -1.9177,0.70176 -0.7191,0.006 -1.4158,-0.056 -1.9177,-0.70176 z"
+             id="path8514-6-7"
+             inkscape:connector-curvature="0" />
+          <rect
+             style="opacity:0.97;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+             id="rect8532-7-4"
+             width="16.767969"
+             height="3.1088541"
+             x="-1186.9957"
+             y="415.89792"
+             rx="1.3229166"
+             ry="1.3229166" />
+        </g>
+        <g
+           id="g8596-2-5-0"
+           transform="matrix(0.21587842,0.00228651,-0.00228651,0.21587842,257.65334,-79.306513)"
+           inkscape:export-filename="D:\WorkSpaces\ReactFront\my-app\public\Images\chees.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"
+           style="fill:#333333;fill-opacity:1">
+          <circle
+             r="4.1627226"
+             cy="398.16821"
+             cx="-1178.6118"
+             id="path8512-7-4-7"
+             style="opacity:0.97;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path8514-6-7-1"
+             d="m -1180.5295,403.37363 c -0.4664,3.84122 -1.1272,7.61482 -3.4613,10.8045 h 5.379 5.379 c -2.3341,-3.18968 -2.9949,-6.96328 -3.4613,-10.8045 -0.5019,0.64574 -1.1986,0.7075 -1.9177,0.70176 -0.7191,0.006 -1.4158,-0.056 -1.9177,-0.70176 z"
+             style="fill:#333333;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+          <rect
+             ry="1.3229166"
+             rx="1.3229166"
+             y="415.89792"
+             x="-1186.9957"
+             height="3.1088541"
+             width="16.767969"
+             id="rect8532-7-4-8"
+             style="opacity:0.97;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+        </g>
+      </g>
+      <g
+         id="g6510"
+         transform="matrix(0.76365511,-0.16954053,0.16954053,0.76365511,2126.4116,-80.144577)"
+         style="fill:#333333;fill-opacity:1">
         <path
-           style="fill:#ff7f2a;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m -1180.5295,403.37363 c -0.4664,3.84122 -1.1272,7.61482 -3.4613,10.8045 h 5.379 5.379 c -2.3341,-3.18968 -2.9949,-6.96328 -3.4613,-10.8045 -0.5019,0.64574 -1.1986,0.7075 -1.9177,0.70176 -0.7191,0.006 -1.4158,-0.056 -1.9177,-0.70176 z"
-           id="path8514-6-7"
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="D:\WorkSpaces\ReactFront\my-app\public\Images\chees.png"
+           sodipodi:nodetypes="cccccccccc"
+           inkscape:connector-curvature="0"
+           id="path8534-7"
+           d="m -2669.5451,-485.93088 c -0.9535,0.27987 -1.673,0.86239 -2.073,1.85779 -0.2604,0.75483 0.1525,1.59593 0.6204,1.83868 0.049,0.0353 0.2149,0.0858 0.5206,0.15456 0.039,0.009 0.067,0.0153 0.1022,0.0233 0.3053,0.0707 0.4772,0.0972 0.536,0.0864 0.527,-0.0158 1.2638,-0.59472 1.3565,-1.38782 0.03,-0.4472 -0.023,-0.8531 -0.1472,-1.22332 -0.2173,-0.52584 -0.5251,-0.99433 -0.9154,-1.34962 z"
+           style="fill:#333333;stroke:none;stroke-width:0.0932208px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+        <circle
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="D:\WorkSpaces\ReactFront\my-app\public\Images\chees.png"
+           transform="rotate(12.847834)"
+           r="0.63033181"
+           cy="119.28507"
+           cx="-2710.7632"
+           id="path8553-6"
+           style="opacity:0.97;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0932208;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+        <path
+           sodipodi:nodetypes="cccccc"
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="D:\WorkSpaces\ReactFront\my-app\public\Images\chees.png"
+           id="path8514-2-9"
+           d="m -2671.3924,-481.77783 c -0.5988,1.66627 -1.2263,3.31946 -2.5922,4.50501 l 4.7482,1.05778 c -0.7167,-1.66056 -0.6276,-3.41135 -0.4448,-5.17253 -0.2896,0.23703 -0.6067,0.19368 -0.9269,0.11796 -0.3215,-0.0704 -0.626,-0.16903 -0.7843,-0.50822 z"
+           style="fill:#333333;stroke:none;stroke-width:0.121072px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
            inkscape:connector-curvature="0" />
         <rect
-           style="opacity:0.97;fill:#ff7f2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-           id="rect8532-7-4"
-           width="16.767969"
-           height="3.1088541"
-           x="-1186.9957"
-           y="415.89792"
-           rx="1.3229166"
-           ry="1.3229166" />
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="D:\WorkSpaces\ReactFront\my-app\public\Images\chees.png"
+           transform="rotate(12.847834)"
+           ry="0.46610391"
+           rx="0.46610391"
+           y="129.85153"
+           x="-2713.7173"
+           height="1.0953441"
+           width="5.9078674"
+           id="rect8532-4-6"
+           style="opacity:0.97;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0932208;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
       </g>
-      <g
-         id="g8596-2-5-0"
-         transform="matrix(0.21587842,0.00228651,-0.00228651,0.21587842,257.65334,-79.306513)"
-         inkscape:export-filename="D:\WorkSpaces\ReactFront\my-app\public\Images\chees.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"
-         style="fill:#ff7f2a">
-        <circle
-           r="4.1627226"
-           cy="398.16821"
-           cx="-1178.6118"
-           id="path8512-7-4-7"
-           style="opacity:0.97;fill:#ff7f2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path8514-6-7-1"
-           d="m -1180.5295,403.37363 c -0.4664,3.84122 -1.1272,7.61482 -3.4613,10.8045 h 5.379 5.379 c -2.3341,-3.18968 -2.9949,-6.96328 -3.4613,-10.8045 -0.5019,0.64574 -1.1986,0.7075 -1.9177,0.70176 -0.7191,0.006 -1.4158,-0.056 -1.9177,-0.70176 z"
-           style="fill:#ff7f2a;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-        <rect
-           ry="1.3229166"
-           rx="1.3229166"
-           y="415.89792"
-           x="-1186.9957"
-           height="3.1088541"
-           width="16.767969"
-           id="rect8532-7-4-8"
-           style="opacity:0.97;fill:#ff7f2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-      </g>
-    </g>
-    <g
-       id="g6510"
-       transform="matrix(0.69501536,-0.15430169,0.15430169,0.69501536,1935.7203,-72.437065)"
-       style="fill:#ff7f2a">
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\WorkSpaces\ReactFront\my-app\public\Images\chees.png"
-         sodipodi:nodetypes="cccccccccc"
-         inkscape:connector-curvature="0"
-         id="path8534-7"
-         d="m -2669.5451,-485.93088 c -0.9535,0.27987 -1.673,0.86239 -2.073,1.85779 -0.2604,0.75483 0.1525,1.59593 0.6204,1.83868 0.049,0.0353 0.2149,0.0858 0.5206,0.15456 0.039,0.009 0.067,0.0153 0.1022,0.0233 0.3053,0.0707 0.4772,0.0972 0.536,0.0864 0.527,-0.0158 1.2638,-0.59472 1.3565,-1.38782 0.03,-0.4472 -0.023,-0.8531 -0.1472,-1.22332 -0.2173,-0.52584 -0.5251,-0.99433 -0.9154,-1.34962 z"
-         style="fill:#ff7f2a;stroke:none;stroke-width:0.0932208px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <circle
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\WorkSpaces\ReactFront\my-app\public\Images\chees.png"
-         transform="rotate(12.847834)"
-         r="0.63033181"
-         cy="119.28507"
-         cx="-2710.7632"
-         id="path8553-6"
-         style="opacity:0.97;fill:#ff7f2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0932208;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-      <path
-         sodipodi:nodetypes="cccccc"
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\WorkSpaces\ReactFront\my-app\public\Images\chees.png"
-         id="path8514-2-9"
-         d="m -2671.3924,-481.77783 c -0.5988,1.66627 -1.2263,3.31946 -2.5922,4.50501 l 4.7482,1.05778 c -0.7167,-1.66056 -0.6276,-3.41135 -0.4448,-5.17253 -0.2896,0.23703 -0.6067,0.19368 -0.9269,0.11796 -0.3215,-0.0704 -0.626,-0.16903 -0.7843,-0.50822 z"
-         style="fill:#ff7f2a;stroke:none;stroke-width:0.121072px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-      <rect
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="D:\WorkSpaces\ReactFront\my-app\public\Images\chees.png"
-         transform="rotate(12.847834)"
-         ry="0.46610391"
-         rx="0.46610391"
-         y="129.85153"
-         x="-2713.7173"
-         height="1.0953441"
-         width="5.9078674"
-         id="rect8532-4-6"
-         style="opacity:0.97;fill:#ff7f2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0932208;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
     </g>
   </g>
 </svg>
