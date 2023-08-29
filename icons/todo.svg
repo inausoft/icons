@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   sodipodi:docname="todo.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 10.583333 10.583334"
+   height="40"
+   width="40"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title885">monitor</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:window-height="1351"
+     inkscape:window-width="2560"
+     units="px"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="18.616071"
+     inkscape:cx="55.580357"
+     inkscape:zoom="11.2"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>monitor</dc:title>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>monitor controller automation screen</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       id="g18853"
+       transform="translate(-12.033463,-1.9842563)">
+      <rect
+         style="fill:#333333;fill-opacity:0.992157;stroke-width:1.33579;stroke-linecap:round"
+         id="rect16485"
+         width="10.033894"
+         height="2.0067787"
+         x="3.0206347"
+         y="17.3239"
+         rx="0.71670669"
+         ry="0.71670669"
+         transform="rotate(-45)" />
+      <rect
+         style="fill:#333333;fill-opacity:0.992157;stroke-width:1.33579;stroke-linecap:round"
+         id="rect16485-7"
+         width="5.7336535"
+         height="2.0067787"
+         x="13.597027"
+         y="-5.0274129"
+         rx="0.71670669"
+         ry="0.71670669"
+         transform="rotate(45)" />
+    </g>
+  </g>
+</svg>
