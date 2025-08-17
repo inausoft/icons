@@ -1,0 +1,35 @@
+name: Generate Icon Font
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '**/*.svg'
+
+jobs:
+  build-font:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install svgtofont
+        run: npm install -g svgtofont
+
+      - name: Generate Font and CSS
+        run: |
+          svgtofont --sources ./icons \
+                    --output ./dist/font \
+                    --fontName inausoft-icons \
+                    --css
+
+      - name: Upload font and CSS artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: icon-font
+          path: dist/font
